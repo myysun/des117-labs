@@ -1,0 +1,64 @@
+body {
+    background-image : url(image/pattern_background_light_lines_waves_surface_50942_3840x2160.jpg);
+    width:auto;
+    padding: inherit;
+    border: 5px solid black;
+    margin: auto;
+}
+
+.page-wrapper {
+    background-color: #0083e8;
+    font-family : cursive;
+    font-size : 10pt;
+    border : 100px;
+    margin : 100px;
+}
+
+h1 {
+    font-family : Time New Roman;
+    font-size : 30pt;
+    margin: auto;
+    text-align: center;
+}
+
+h2, h3 {
+    font-family : monospace;
+    font-size : 20pt;
+    text-align: center;
+}
+
+.intro {
+    background-color: #0083e8;
+    font-family : Time New Roman;
+    font-size : 15pt;
+    margin: auto;
+}
+
+#zen-preamble {
+    font-family : Arial;
+    font-size : 12pt;
+    margin: auto;
+}
+
+#zen-supporting {
+    font-family : Arial black;
+    font-size : 12pt;
+    margin: auto;
+}
+
+#zen-supporting {
+    font-family : Arial;
+    font-size : 12pt;
+    margin: auto;
+}
+p{
+    background-color: azure;
+    font-size: 12pt;
+    font-kerning: auto;
+    color: dodgerblue;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+    
+}

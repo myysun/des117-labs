@@ -1,0 +1,64 @@
+body {
+    background-color: antiquewhite;
+    width:auto;
+    padding: inherit;
+    border: 10px dashed black;
+    margin: auto;
+}
+
+.page-wrapper {
+    font-family : Arial;
+    font-size : 8pt;
+    border : 50px;
+    margin :50px;
+}
+
+h1 {
+    font-family : Time New Roman;
+    font-size : 50pt;
+    margin: auto;
+    text-align: left;
+}
+
+h2, h3 {
+    font-family : monospace;
+    font-size : 30pt;
+    text-align: center;
+}
+
+.intro {
+    background-size: auto;
+    background-color: aliceblue;
+    font-family : Time New Roman;
+    font-size : 20pt;
+    margin: auto;
+}
+
+#zen-preamble {
+    font-family : Arial;
+    font-size : 10pt;
+    margin: auto;
+}
+
+#zen-supporting {
+    font-family : Arial black;
+    font-size : 1pt;
+    margin: auto;
+}
+
+#zen-supporting {
+    font-family : Arial;
+    font-size : 10pt;
+    margin: auto;
+}
+p{
+    background-color: azure;
+    font-size: 10pt;
+    font-kerning: auto;
+    color: slategray;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    
+}
